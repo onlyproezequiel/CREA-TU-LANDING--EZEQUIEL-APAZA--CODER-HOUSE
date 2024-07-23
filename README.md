@@ -1,1 +1,1 @@
-Me faltó termiinar y ultimar algunos detalles. Durante el transcurso del día lo estaré terminando
+No logro visualizar la pagina desde gitpages
